@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+body {
+  background-image: url("../images/bg-header-desktop.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media (max-width: 576px) {
+  body {
+    background-image: url("../images/bg-header-mobile.png");
+  }
+}
+
+@theme {
+  /* Fonts */
+  --font-sans: "Bai Jamjuree", ui-sans-serif, system-ui, sans-serif;
+
+  /* Custom Colors */
+  --color-strongCyan: hsl(171, 66%, 44%);
+  --color-lightBlue: hsl(233, 100%, 69%);
+  --color-darkGrayishBlue: hsl(210, 10%, 33%);
+  --color-grayishBlue: hsl(201, 11%, 66%);
+
+  /* Breakpoints */
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 976px;
+  --breakpoint-xl: 1440px;
+}
+
+/* Dark mode variant */
+@variant dark (&:where(.dark, .dark *));
+
+/* Button cursor fix */
+@layer base {
+  button {
+    @apply cursor-pointer;
+  }
+}
