@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+.section-container {
+  @apply max-w-6xl mx-auto text-center px-10;
+}
+
+.button-container {
+  @apply flex flex-col space-y-6 text-white text-xl justify-center w-full md:flex-row md:space-y-0 md:space-x-4;
+}
+
 body {
   background-image: url("../images/bg-header-desktop.png");
   background-repeat: no-repeat;
@@ -34,6 +42,9 @@ body {
 
 /* Button cursor fix */
 @layer base {
+  h3 {
+    @apply font-bold text-4xl mb-8 text-darkGrayishBlue md:text-5xl;
+  }
   button {
     @apply cursor-pointer;
   }
