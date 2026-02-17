@@ -1,70 +1,42 @@
-# Mini Projects – Tailwind CSS 🚀
+# 📋 Clipboard Landing Page
 
-A collection of 5 responsive UI mini-projects built using **Tailwind CSS**.  
-This repository is part of my frontend development journey to master layout systems, responsive design, and modern UI components.
+A modern, responsive landing page built using **Tailwind CSS**.
 
----
-
-## 📌 Projects Included
-
-### 1️⃣ Email Subscribe Card
-
-A clean and modern subscription card with input field and CTA button.
-
-### 2️⃣ Pricing Grids
-
-Responsive pricing section with multiple plans and feature comparison.
-
-### 3️⃣ Product Modal
-
-Interactive product preview modal with structured layout.
-
-### 4️⃣ Image Gallery
-
-Responsive image gallery layout using Tailwind utilities.
-
-### 5️⃣ Login Modal
-
-Modern login modal with form styling and clean UX.
+This project focuses on mastering utility-first CSS, responsive layouts, and clean UI structure while following best practices for frontend development.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Live Demo
+
+---
+
+## 🛠️ Built With
 
 - HTML5
 - Tailwind CSS
-- Responsive Design Principles
+- Mobile-First Design Approach
+- Responsive Layouts
 
 ---
 
-## 🎯 Purpose of This Repository
+## 🎯 Project Goals
 
-- Practice Tailwind utility-first workflow
-- Improve layout & spacing consistency
-- Build reusable UI components
-- Strengthen frontend fundamentals
-
----
-
-## 📚 What I’m Learning
-
-- Flexbox & Grid with Tailwind
-- Responsive breakpoints
-- Dark mode implementation
-- Clean UI structuring
-- Component-based thinking
+- Practice Tailwind CSS utility classes
+- Build a fully responsive landing page
+- Improve layout structuring skills
+- Strengthen frontend development fundamentals
+- Follow clean and maintainable code practices
 
 ---
 
-## 🚀 Future Improvements
+## 📱 Features
 
-- Add JavaScript interactivity
-- Improve accessibility
-- Convert into reusable components
-- Deploy live demos
+- Fully responsive design
+- Modern UI layout
+- Clean typography and spacing
+- Reusable utility-based components
+- Optimized structure for scalability
 
 ---
 
-## 📎 Author
-
-Built with consistency and focus as part of my journey to becoming a professional Full Stack Developer.
+⭐ If you like this project, consider giving it a star!
