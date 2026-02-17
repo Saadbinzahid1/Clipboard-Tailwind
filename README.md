@@ -8,7 +8,7 @@ This project focuses on mastering utility-first CSS, responsive layouts, and cle
 
 ## 🚀 Live Demo
 
----
+[Live Demo](https://clipboardtailwindui.netlify.app)
 
 ## 🛠️ Built With
 
